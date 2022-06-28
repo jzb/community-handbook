@@ -12,7 +12,7 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 
 ### 📖 Metric Releases
 
-The Working Groups within the CHAOSS are focused on releasing new metrics where metrics are identified and defined using a continuous contribution process. The metrics are officially released biannually following a 30 day comment period. [**Check out the metric release**](https://github.com/chaoss/governance/blob/master/community-handbook/metrics-release.md)\*\*\*\*
+The Working Groups within the CHAOSS are focused on releasing new metrics where metrics are identified and defined using a continuous contribution process. The metrics are officially released biannually following a 30 day comment period. [**Check out the metric release**](https://chaoss.community/release-history/)\*\*\*\*
 
 ### \*\*\*\*👨💻 **Software Releases**
 
